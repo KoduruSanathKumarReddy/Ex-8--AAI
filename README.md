@@ -49,7 +49,8 @@ while True:
 
 <H3> Output:</H3>
 
-<img width="448" alt="image" src="https://github.com/KoduruSanathKumarReddy/Ex-8--AAI/assets/69503902/3e419a25-5ebf-421f-9ae4-d45d30b19fc9">
+<img width="1114" alt="image" src="https://github.com/KoduruSanathKumarReddy/Ex-8--AAI/assets/69503902/a095edad-bdad-490b-8858-48b1d53a640b">
+
 
 
 <H3> Result:</H3>
